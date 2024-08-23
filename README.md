@@ -31,16 +31,20 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
     - Data Security: Utilized Spring Security to ensure secure user authentication and data protection.
  
   - Impact: Improved the efficiency of fertilizer distribution by connecting all stakeholders on a single platform, reducing manual effort and increasing operational transparency
+    
 - **[Music Recommendation system](#):** A platform recommend music basedon their listening history
+  - Technologies:  AI & Machine Learning, Python, Django.
+ 
+  - **[Drug Review using NLP ](#):** A platform where we can analysis the drug review using NLP
   - Technologies:  AI & Machine Learning, Python, Django.
 
 
 
 ## 📜 Certifications
 
-- **[Sunbeam PreCat ](https://github.com/Akshaybalte1998/Certification/blob/main/Sunbeam_PreCat.pdf)** by Sunbeam.
-- **[Data Science InterShip ](https://github.com/Akshaybalte1998/Certification/blob/main/Data%20Science%20intership.pdf)** by AIvariant.
-- **[Machine Learning](https://github.com/Akshaybalte1998/Certification/blob/main/IBM%20by%20%20machine%20learning.pdf)** by IBM.
+- **[Sunbeam PreCat ](https://github.com/Akshaybalte1998/Certification/blob/main/Sunbeam_PreCat.pdf)**    by Sunbeam.
+- **[Data Science InterShip ](https://github.com/Akshaybalte1998/Certification/blob/main/Data%20Science%20intership.pdf)**  by AIvariant.
+- **[Machine Learning](https://github.com/Akshaybalte1998/Certification/blob/main/IBM%20by%20%20machine%20learning.pdf)**   by IBM.
 
 ## 📬 Connect with Me
 
